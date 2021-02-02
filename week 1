@@ -1,0 +1,6 @@
+week 1 enviroment setup
+  assign wan and lan interfaces on fw1
+  created new local admin chris.keith-loc for wks01
+  changed hostname to wks01-chris
+  set maximun hops for tracert by using /h (num hops)
+  
